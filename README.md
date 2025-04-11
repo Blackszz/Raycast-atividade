@@ -31,4 +31,8 @@ Esse script serve para a esfera fazer uma patrulha em 2 pontos. Criamos variáve
 
 https://github.com/user-attachments/assets/a193b088-c8f1-4e79-88b7-e08d642fbfc3
 
+# Drive da cena
+
+https://drive.google.com/drive/folders/1DgMLIzvemRGjUv-B9ucM-6s8lamMf377?usp=drive_link
+
 
