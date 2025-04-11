@@ -12,4 +12,6 @@ por fim no update setamos a LinearVelocity do nosso objeto como direita, multipl
 
 ![raycst](https://github.com/user-attachments/assets/81d71356-14ce-44a9-b383-68a1b26d853a)
 
-Esse é o script do Raycast
+Esse é o script do Raycast. Nós criamos variaveis para o Ray (raio), para o Raycasthit (hit) e para a Camera (tela).
+No update criamos o Ray onde que quando clicamos com o botão esquerdo do mouse ele atira, o ponto inicial dele é o meio da camera, e o final é onde o clique do mouse acertar.
+Por fim criamos a função hitou, que pega o Gameobject atingido usando o hit, e transformamos em uma variavel, para depois destrui-lo.
