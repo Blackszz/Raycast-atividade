@@ -22,7 +22,7 @@ Por fim criamos a função hitou, que pega o Gameobject atingido usando o hit, e
 
 ![moveresfera](https://github.com/user-attachments/assets/86956393-75fb-4647-9005-035800953eeb)
 
-Esse script serve para a esfera fazer uma patrulha em 2 pontos.
+Esse script serve para a esfera fazer uma patrulha em 2 pontos. Criamos variáveis para controlar a velocidade, dizer os pontos de patrulha e dar a posição inicial do objeto que queremos mover. O código envia o objeto para se mover até um certo ponto e quando ele chega nesse ponto, começa a se mover para o outro e assim vai fazendo infinitamente (até ser detruído pelo raycast). As últimas linhas de código são para fazer o objeto rotacionar de maneira suave após ter chegado em um dos pontos e for se mover para o outro. Após fazer o script, colocamos duas esferas no mapa para ser os pontos em que o objeto principal irá se mover. Arrastamos essas esferas até o inspetor do nosso script para localizar os pontos que o objeto principal deve ir e então a patrulha ficou pronta.
 
 
 
@@ -30,4 +30,5 @@ Esse script serve para a esfera fazer uma patrulha em 2 pontos.
 
 
 https://github.com/user-attachments/assets/a193b088-c8f1-4e79-88b7-e08d642fbfc3
+
 
