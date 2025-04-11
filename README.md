@@ -2,8 +2,12 @@
 
 ## Script "Mover"
 
-![movimetação](https://github.com/user-attachments/assets/d8c85c17-f1de-45a7-90a8-994c61d0cdad)
+![mover](https://github.com/user-attachments/assets/d1f5c345-6698-415e-b05b-3cba55ccc9e9)
 
-Esse é o script de movimentação do cubo, nós usamos o método fisico LinearVelocity, ele move o Rigidbody do objeto em uma direçêo de sua escolha, e nós escolhemos o eixo X (direita e esquerda)
+
+Nesse é o script de movimentação do cubo, nós usamos o método fisico LinearVelocity, ele move o Rigidbody do objeto em uma direçêo de sua escolha, e nós escolhemos o eixo X (direita e esquerda).
+A variavel cubo representa o Rigidbody do nosso objeto que será movido, e a variavel velocidade representa a velocidade que o nosso objeto irá se mover.
+por fim no update setamos a LinearVelocity do nosso objeto como direita, multiplicamos pelo input do eixo horizontal, assim fazendo o objeto só se mover quando apertarmos as teclas A, D, Seta Direita e Seta Esquerda e depois multiplicamos pela velocidade escolhida.
+
 
 
