@@ -28,3 +28,6 @@ Esse script serve para a esfera fazer uma patrulha em 2 pontos.
 
 # Video da execução
 
+
+https://github.com/user-attachments/assets/a193b088-c8f1-4e79-88b7-e08d642fbfc3
+
